@@ -4,11 +4,11 @@
 
 <p>添加代码至浏览器书签，打开官网页面后点击该书签</p>
 
-<pre><code>javascript:function loadScript(url){var script=document.createElement("script");script.type="text/javascript";script.src=url;document.body.appendChild(script)}loadScript("https://catgirlhelper.github.io/CatgirlHelper/zh-CN.js");</code></pre>
+<pre><code>javascript:function loadScript(url){var script=document.createElement("script");script.type="text/javascript";script.src=url;document.body.appendChild(script)}loadScript("https://catgirlhelper.github.io/CatgirlHelper/zh-CN.js?v=0.1");</code></pre>
 
 <p>或手动在浏览器控制台输入</p>
 
-<pre><code>function loadScript(url){var script=document.createElement("script");script.type="text/javascript";script.src=url;document.body.appendChild(script)}loadScript("https://catgirlhelper.github.io/CatgirlHelper/zh-CN.js");</code></pre>
+<pre><code>function loadScript(url){var script=document.createElement("script");script.type="text/javascript";script.src=url;document.body.appendChild(script)}loadScript("https://catgirlhelper.github.io/CatgirlHelper/zh-CN.js?v=0.1");</code></pre>
 
 ### Other languages:
 
