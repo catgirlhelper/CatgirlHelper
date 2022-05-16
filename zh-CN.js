@@ -1,5 +1,5 @@
-var t1 =[]
-var t2 = []
+var t1 =[];
+var t2 = [];
 t1.push("NEW","SOON","Please connect your wallet","My NFTs","Disconnect","Home","Mystery Box","Farming","Staking","Nekofuse","Marketplace","Raffle","The Token","INFORMATION","Whitepaper","Audit","Liquidity Lock","LINKS","CONTRACT ADDRESS:","Theme Song");
 t2.push("新","即将上线","请连接钱包后使用","我的NFT","断开连接","首页", "盲盒","农场","流动性质押","合成","市场","抽奖","代币","更多信息","白皮书","审计","流动池锁定","链接","合约地址：","主题曲");
 t1.push("Collect, create, and engage with","Catgirls!","Supported exchanges to buy CATGIRL￠:","Ecosystem","Season Catgirls","Season One","CURRENT","The GENESIS Catgirls");
