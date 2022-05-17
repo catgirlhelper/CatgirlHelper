@@ -16,76 +16,58 @@ t2.push("1. 有两种合成选项，<strong>10只普通</strong> -&gt; <strong>1
 //https://www.catgirl.io/
 t1.push("NEW","SOON");
 t2.push("新","即将上线");
-
 t1.push("Try the Dark Side?");
 t2.push("尝试切换深色模式？");
-
 t1.push("Please connect your wallet","My NFTs","Disconnect");
 t2.push("请连接钱包后使用","我的NFT","断开连接");
-
 t1.push("Home","Mystery Box","Farming","Staking","Nekofuse","Marketplace","Raffle","The Token","INFORMATION","Whitepaper","Audit","Liquidity Lock","LINKS","CONTRACT ADDRESS:","Theme Song");
 t2.push("首页", "盲盒","农场","流动性质押","合成","市场","抽奖","代币","更多信息","白皮书","审计","流动池锁定","链接","合约地址：","主题曲");
-
 t1.push("Collect, create, and engage with","Catgirls!","Supported exchanges to buy CATGIRL\u00A2:","Ecosystem","Season Catgirls","Season One","CURRENT","The GENESIS Catgirls");
 t2.push("收集，创造并拥有","猫娘！","CATGIRL\u00A2已上架交易所：","生态系统","已诞生猫娘","第 1 季","当前","创世季猫娘");
-
 t1.push("COMMON","RARE","EPIC","LEGENDARY","PAW-SOME");
-t2.push("普通","稀有","史诗","传奇","喵爪");
-
-t1.push("DIY Catgirls","Platform Stats","MYSTERY BOXES OPEN","CATGIRL NFT HOLDERS","CATGIRL HOLDERS","CHARACTERS &amp; GROWING");
-t2.push("个性化猫娘","平台统计","已销售盲盒","NFT持有地址","代币持有地址","猫娘角色数");
-
+t2.push("普通","稀有","史诗","传奇","呜喵");
+t1.push("DIY Catgirls","A mysterious artifact that is known to contain characters with feline features, also known as Catgirls.","Platform Stats","MYSTERY BOXES OPEN","CATGIRL NFT HOLDERS","CATGIRL HOLDERS","CHARACTERS &amp; GROWING");
+t2.push("个性化猫娘","一种神秘的盒子，里面藏着长着猫耳的生物，也称作猫娘。","平台统计","已销售盲盒","NFT持有地址","代币持有地址","猫娘角色数");
+t1.push("Roadmap","Our Team","Core Kitties","Core Developer","Creative Director","Content Creator","Software Developer","Community Kitties","Find us On","Disclaimer","Legal Disclaimer","Risk Disclosure");
+t2.push("路线图","团队","核心小猫","主开发","创意总监","内容运营","开发","社区小猫","找到我们","免责声明","法律免责声明","风险披露");
+t1.push("COLLECTIBLE NFTS","Expand your collection by partaking in our seasonal Catgirl releases, limited events, and more","NFT GAMES","Play games, engage with other players, participate in events and utilize your Collectible NFTs","NFT FARMING","Send your Catgirls to the farm, where you can obtain more CATGIRL\u00A2","MARKETPLACE","A one-stop-shop for buying, selling and trading Collectible NFTs","CATGIRL MERCH","Create&nbsp;Official apparel and accessories featuring your favorite Catgirls from your collection");
+t2.push("收集猫娘NFT","通过参加我们每季的猫女发布、期限活动等来扩展您的收藏","NFT游戏","玩游戏、与其他玩家互动、参与活动并使用您收藏的NFT","NFT农场","将您的猫娘送到农场，在那里您可以获得更多 CATGIRL\u00A2","市场","购买、销售和交易NFT藏品的一站式商店","猫娘商品","创建各种服装及配饰，以装扮您最爱的猫娘收藏们");
+t1.push("The information provided on the catgirl.io website does not constitute investment advice, financial advice, trading advice, or any other sort of advice and you should not treat any of the website’s content as such. catgirl.io does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions. By purchasing CATGIRL\u00A2, you agree that you are not purchasing a security or investment and you agree to hold catgirl.io harmless and not liable for any losses or taxes you may incur. You also agree that catgirl.io is presenting the token “as is” and is not required to provide any support or services. You should have no expectation of any form from catgirl.io. Although CATGIRL\u00A2 is a community driven token for social networking and not a registered digital currency, the team strongly recommends that citizens in areas with government bans on cryptocurrency do not purchase it because catgirl.io cannot ensure compliance with your territory’s regulations. Always make sure that you are in compliance with your local laws and regulations before you make any purchase.");
+//catgirl.io 网站上提供的信息不构成投资建议、财务建议、交易建议或任何其他类型的建议，您不应将任何网站内容视为此类建议。<br>catgirl.io 未推荐您购买、出售或持有任何加密货币。<br>在做出任何投资决定之前，请务必进行自己的尽职调查并咨询您的财务顾问。<br>通过购买 CATGIRL\u00A2，您认可您不是在购买证券或投资，并且您同意使 catgirl.io 免于承担任何损失赔偿，并且对您可能产生的任何损失或税款不承担任何责任。<br>您还同意 catgirl.io “按原样”提供代币，不需要提供任何支持或服务。<br>你不应该对 catgirl.io 有任何形式的主观预期。<br>尽管 CATGIRL\u00A2 是用于社交网络的社区驱动代币，而不是注册的数字货币，但该团队强烈建议政府禁止加密货币地区的公民不要购买它，因为 catgirl.io 无法确保遵守您所在地区的法规。<br>在进行任何购买之前，请务必确保您遵守当地的法律和法规。
+t2.push("<div style=\"text-indent:2em;\"><p>catgirl.io 网站上提供的信息不构成投资建议、财务建议、交易建议或任何其他类型的建议，您不应将任何网站内容视为此类建议。</p><p>catgirl.io 未推荐您购买、出售或持有任何加密货币。</p><p>在做出任何投资决定之前，请务必进行自己的尽职调查并咨询您的财务顾问。</p><p>通过购买 CATGIRL\u00A2，您认可您不是在购买证券或投资，并且您同意使 catgirl.io 免于承担任何损失赔偿，并且对您可能产生的任何损失或税款不承担任何责任。</p><p>您还同意 catgirl.io “按原样”提供代币，不需要提供任何支持或服务。</p><p>你不应该对 catgirl.io 有任何形式的主观预期。</p><p>尽管 CATGIRL\u00A2 是用于社交网络的社区驱动代币，而不是注册的数字货币，但该团队强烈建议政府禁止加密货币地区的公民不要购买它，因为 catgirl.io 无法确保遵守您所在地区的法规。</p><p>在进行任何购买之前，请务必确保您遵守当地的法律和法规。</p></div>");
+t1.push("Please note there are always risks associated with smart-contracts. Please use at your own risk. catgirl.io is not a registered broker, analyst, or investment advisor. Everything that’s provided on this site is purely for guidance, informational and educational purposes, and fun. All information contained herein should be independently verified and confirmed. We do not accept any liability for any loss or damage whatsoever caused in reliance upon such information or services. Please be aware of the risks involved with any trading done in any financial market. Do not trade with money that you cannot afford to lose.");
+t2.push("<div style=\"text-indent:2em;\"><p>请注意，智能合约总是存在风险。 请您自担风险使用。</p><p>catgirl.io 不是注册经纪人、分析师或投资顾问。</p><p>本网站提供的所有内容纯粹是为了指导、信息和教育目的以及娱乐。</p><p>此处包含的所有信息均应经过独立验证和确认。</p><p>对于因依赖此类信息或服务而造成的任何损失或损害，我们不承担任何责任。</p><p>请注意在任何金融市场进行的任何交易所涉及的风险。 不要用您无法承受损失的资金进行交易。</p></div>");
 //https://www.catgirl.io/mystery-box
 t1.push("The sales for Season One of the Mystery Boxes are <strong>now closed!</strong>","Rarities &amp; Drop Rates","Rates slightly increased when buying with CATGIRL\u00A2");
 t2.push("第一季盲盒已于2021年11月23日后<strong>停止销售！</strong>","稀有度 &amp; 掉率","使用 CATGIRL\u00A2 购买时掉率将增加");
-
 t1.push("COMMON - 80.99%","RARE - 14.5%","EPIC - 3.5%","LEGENDARY - 1%","PAW-SOME - 0.01%","Obtainable Catgirls");
-t2.push("普通 - 80.99%","稀有 - 14.5%","史诗 - 3.5%","传奇 - 1%","喵爪 - 0.01%","躲在盲盒里的猫娘们");
-
+t2.push("普通 - 80.99%","稀有 - 14.5%","史诗 - 3.5%","传奇 - 1%","呜喵 - 0.01%","躲在盲盒里的猫娘们");
 //https://www.catgirl.io/staking
-t1.push("Stake CATGIRL-BNB pair","Add Liquidity and Stake","Stake LP","INPUT","MAX","Staking Info","BNB Balance:","Catgirl Balance:","Withdraw Cooldown","Catgirl-BNB LP Balance:","PAW BALANCE");
-t2.push("质押 CATGIRL-BNB 流动性","添加流动性并质押","质押LP代币","输入","最大","质押说明","BNB 余额：","Catgirl 余额：","提取冷却","CATGIRL-BNB LP 余额：","$PAW 余额");
-
-t1.push("There will be a cooldown period of <b>14 days</b> if you wish to withdraw your Liquidity Pair Token. You may cancel the withdraw at any time and continue generating $PAW.","Estimated Paw per day*: ","Withdraw in Progress","Current Staked CATGIRL-BNB:");
-t2.push("如果您提取流动性代币，将有<b>14 天</b>的冷却期。 您可以随时取消提取并继续生成 $PAW。","预计每日可自动获得：","解除质押中","当前已质押LP代币：");
-
+t1.push("Stake CATGIRL-BNB pair","Add Liquidity and Stake","Stake LP","INPUT","MAX","Staking Info","BNB Balance:","Catgirl Balance:","Withdraw Cooldown","Catgirl-BNB LP Balance:","PAW BALANCE","Withdraw");
+t2.push("质押 CATGIRL-BNB 流动性","添加流动性并质押","质押LP代币","输入","最大","质押说明","BNB 余额：","Catgirl 余额：","提取冷却","CATGIRL-BNB LP 余额：","$PAW 余额","提取");
+t1.push("There will be a cooldown period of <b>14 days</b> if you wish to withdraw your Liquidity Pair Token. You may cancel the withdraw at any time and continue generating $PAW.","Estimated Paw per day*: ","Withdraw in Progress","Current Staked CATGIRL-BNB:","Staked CATGIRL-BNB Pair");
+t2.push("如果您提取流动性代币，将有<b>14 天</b>的冷却期。 您可以随时取消提取并继续生成 $PAW。","预计每日可自动获得：","解除质押中","当前已质押LP代币：","已质押LP代币量：");
 //https://www.catgirl.io/farming
 t1.push("Farming Info","INVENTORY","FILTER","FARMING AREA","Select Slot:","BONUS","Lock","Unlock","Farming Status","Pool Size","Total Farming Power","Total CATGIRL Locked","Set the Farming Period","7 DAYS","14 DAYS","-50% POWER","Farming Power","Estimated Earnings","Paw Price","PAW PRICE","FILTER INVENTORY","Filter","Filter by Rarity","Rare","EPIC","Legendary","Pawsome","Filter by Nya Score","Show Sleeping Catgirls","Sorting","Sort By:","Sort Direction:","Nya Score","Rarity","Birthday","Descending","Ascending");
-t2.push("农场说明","库存","筛选","农场区域","选择插槽","奖励","锁定","解锁","农场状态","农场池","总算力","已质押","设置质押期限","7天","14天","-50% 算力","算力预览","收益预览","唤醒（$PAW）费用","共需$PAW：","筛选库存","以","稀有度","稀有","史诗","传奇","喵爪","以 Nya 分筛选","显示睡眠中的猫娘","及","以：","升降序：","Nya分","稀有度","诞生日","降序","升序");
-
+t2.push("农场说明","库存","筛选","农场区域","选择插槽","奖励","锁定","解锁","农场状态","农场池","总算力","已质押","设置质押期限","7天","14天","-50% 算力","算力预览","收益预览","唤醒（$PAW）费用","共需$PAW：","筛选库存","以","稀有度","稀有","史诗","传奇","呜喵","以 Nya 分筛选","显示睡眠中的猫娘","及","以：","升降序：","Nya分","稀有度","诞生日","降序","升序");
 t1.push("TIER 1 SLOT","TIER 2 SLOT","TIER 3 SLOT","TIER 4 SLOT","TIER 5 SLOT","LOCKED","STAKING AMOUNT TO UNLOCK","UNLOCKED","CURRENT STAKED CATGIRL\u00A2");
 t2.push("插槽1","插槽2","插槽3","插槽4","插槽5","锁定中","质押 CATGIRL\u00A2 以解锁","已解锁","已质押 CATGIRL\u00A2 数额");
-
 t1.push("Once you stake the CATGIRL\u00A2 required to unlock this slot, if you wish to withdraw the staked CATGIRL\u00A2, there will be a cooldown period of <b>180 days</b> to receive the staked CATGIRL\u00A2 back to your wallet.");
 t2.push("一旦您质押解锁此插槽所需的 CATGIRL\u00A2，如果您想撤回质押的 CATGIRL\u00A2，将有 180 天的冷却期将质押的 CATGIRL\u00A2 退回您的钱包。");
-
 t1.push("In this cooldown period, this slot will no longer be available.");
 t2.push("在冷却期内，此插槽将不再可用。");
-
 t1.push("If you change your mind, you can cancel the withdrawal at any time and continue using the slot. However, this will reset the cooldown period.");
 t2.push("如果您改变主意，您可以随时取消提款并继续使用该插槽。 但是，这将重置冷却时间。");
-
 //https://www.catgirl.io/nekofuse
 t1.push("FUSION AREA","Success Rate","SUCCESS","RATE","Season Chance","Proceed with Fusion?","Nekofuse Info","Common","Epic");
 t2.push("合成区域","成功率","\u0e05\u00d2\u03c9\u00d3\u0e05","概率","季度","确认合成？","合成说明","普通","史诗");
-
 t1.push("You are about to Fuse <b>10 Common</b> Catgirls, if you fail the Fusion you will lose half of your Catgirls. Do you wish to proceed?");
 t2.push("您即将融合<b>10只普通</b>猫娘，如果合成失败，您将失去5只猫娘。 确认继续？");
-
 t1.push("Proceed with changing Fusion Rarity?","If you switch fuse rarity now, you will wipeout your current Fusion Area, is that okay?");
 t2.push("修改合成选项？","如果您现在修改合成选项，已填充的合成区域将清空，确认继续？");
-
-t1.push("");
-t2.push("");
-
-t1.push("");
-t2.push("");
-
-function d(){
-var e = document.body.getElementsByTagName("*");
-for(let i in e){
-var j = t1.indexOf(e[i].innerHTML);
-if(j!=-1){e[i].innerHTML=t2[j]}
-}
-}
+var b1 = [];
+var b2 = [];
+b1.push("Buy CATGIRL","Collect NFTs!","Open Mystery Box","Approve","Add Liquidity and Stake","Stake LP");
+b2.push("购买Catgirl","收集猫娘NFT！","开启神秘盒子","授权","添加流动性并质押","质押LP");
+function d(){var e=document.body.getElementsByTagName("*");var b=document.body.getElementsByTagName("button");for(let i in e){let t=t1.indexOf(e[i].innerHTML);if(t!=-1){e[i].innerHTML=t2[t]}}for(let i in b){for(let j in b1){if(b[i].innerHTML==null||b[i].className==null||b[i].setAttribute==null||b[i].className.indexOf("chakra-button")==-1){break}if(b[i].innerHTML.indexOf(b1[j])!=-1){b[i].setAttribute("title",b2[j])}}}}
 var t=self.setInterval("d()",1000);
